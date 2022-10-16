@@ -1,0 +1,26 @@
+html{
+    background-color: darkgray;
+}
+#dinners{
+    margin: auto;
+    height: 200px;
+    width: 300px;
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    
+}
+#banner{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: aqua;
+};
+#title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+};
